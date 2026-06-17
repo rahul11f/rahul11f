@@ -4,9 +4,13 @@
   # Hi there, I'm Rahul Kumar 👋
   **Full Stack MERN Developer | B.Tech CSE Graduate**
 
-  🚀 **[Check out my Interactive 3D Portfolio Dashboard!](https://rahul11f.github.io/Git-Profile-Dashboard/)** 🚀
+  🚀 **[Check out my live site!](https://rahul11f.github.io/Git-Profile-Dashboard/)** 🚀
+  
+  <a href="https://rahul11f.github.io/Git-Profile-Dashboard/">
+    <img src="dashboard-preview.png" width="100%" style="border-radius: 12px; margin-top: 15px;" alt="Interactive 3D Dashboard Preview" />
+  </a>
 
-  *It features a live, mouse-reactive starfield, glass-morphism UI, and premium animations built with React & Three.js.*
+  *My Interactive 3D Portfolio Dashboard features a live, mouse-reactive starfield, glass-morphism UI, and premium animations built with React & Three.js.*
 </div>
 
 ### 🛠️ Tech Stack
