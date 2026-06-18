@@ -36,7 +36,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" style="border-radius: 10px;" alt="3D Coding Animation" />
+      <img src="assets/coding.gif" width="300" style="border-radius: 10px;" alt="3D Coding Animation" />
     </td>
   </tr>
 </table>
@@ -82,13 +82,13 @@
   &nbsp;&nbsp;
   <a href="https://gemini.google.com"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" title="Gemini" /></a>
   &nbsp;&nbsp;
-  <a href="https://deepseek.com"><img src="https://logo.clearbit.com/deepseek.com" height="45" style="border-radius: 8px;" alt="DeepSeek" title="DeepSeek" /></a>
+  <a href="https://deepseek.com"><img src="assets/icons/deepseek.png" height="45" style="border-radius: 8px;" alt="DeepSeek" title="DeepSeek" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.stitchdata.com/"><img src="https://logo.clearbit.com/stitchdata.com" height="45" style="border-radius: 8px;" alt="Stitch" title="Stitch" /></a>
+  <a href="https://www.stitchdata.com/"><img src="assets/icons/stitch.png" height="45" style="border-radius: 8px;" alt="Stitch" title="Stitch" /></a>
   &nbsp;&nbsp;
-  <a href="https://antigravity.dev"><img src="https://logo.clearbit.com/deepmind.com" height="45" style="border-radius: 8px;" alt="Antigravity" title="Antigravity" /></a>
+  <a href="https://antigravity.dev"><img src="assets/icons/antigravity.png" height="45" style="border-radius: 8px;" alt="Antigravity" title="Antigravity" /></a>
   &nbsp;&nbsp;
-  <a href="https://deepmind.google/technologies/veo"><img src="https://logo.clearbit.com/google.com" height="45" style="border-radius: 8px;" alt="Veo" title="Veo" /></a>
+  <a href="https://deepmind.google/technologies/veo"><img src="assets/icons/veo.png" height="45" style="border-radius: 8px;" alt="Veo" title="Veo" /></a>
 </div>
 
 <br>
