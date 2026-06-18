@@ -13,7 +13,7 @@
   <!-- Social & Portfolio Links -->
   <a href="https://rahul11f-react-portfolio.vercel.app/"><img src="https://cdn.simpleicons.org/react/00f0ff" height="40" alt="Live 3D Portfolio" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul11f"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rahul11f"><img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=128" height="40" style="border-radius: 8px;" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="https://certificate-website-seven.vercel.app/"><img src="https://cdn.simpleicons.org/awesomelists/FFD700" height="40" alt="Certificates" /></a>
 
@@ -30,7 +30,6 @@
       <p>I'm <b>Rahul Kumar</b>, a relentless builder and full-stack MERN developer with a passion for transforming complex problems into elegant, highly interactive digital experiences.</p>
       <p>Currently pursuing my B.Tech in CSE at Babu Banarasi Das University, I thrive on continuous learning and pushing the boundaries of modern web technologies like Next.js and Three.js.</p>
       <ul>
-        <li>💼 Working as a <b>Full Stack MERN Intern</b> at GRASTech</li>
         <li>🎓 B.Tech CSE (2022 - 2026)</li>
         <li>🧠 Deep diving into <b>AI integration, DSA, and Web3</b></li>
         <li>📫 Reach me at: raajrahul147@gmail.com</li>
@@ -77,26 +76,26 @@
 ## 🤖 AI Tools I Use
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/openai/74aa9c" height="45" alt="ChatGPT" title="ChatGPT" />
+  <a href="https://chatgpt.com"><img src="https://cdn.simpleicons.org/openai/74aa9c" height="45" alt="ChatGPT" title="ChatGPT" /></a>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/F2B08D" height="45" alt="Claude" title="Claude" />
+  <a href="https://claude.ai"><img src="https://cdn.simpleicons.org/anthropic/F2B08D" height="45" alt="Claude" title="Claude" /></a>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" title="Gemini" />
+  <a href="https://gemini.google.com"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" title="Gemini" /></a>
   &nbsp;&nbsp;
-  <img src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=128" height="45" style="border-radius: 8px;" alt="DeepSeek" title="DeepSeek" />
+  <a href="https://deepseek.com"><img src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=128" height="45" style="border-radius: 8px;" alt="DeepSeek" title="DeepSeek" /></a>
   &nbsp;&nbsp;
-  <img src="https://www.google.com/s2/favicons?domain=stitchdata.com&sz=128" height="45" style="border-radius: 8px;" alt="Stitch" title="Stitch" />
+  <a href="https://www.stitchdata.com/"><img src="https://www.google.com/s2/favicons?domain=stitchdata.com&sz=128" height="45" style="border-radius: 8px;" alt="Stitch" title="Stitch" /></a>
   &nbsp;&nbsp;
-  <img src="https://www.google.com/s2/favicons?domain=antigravity.dev&sz=128" height="45" style="border-radius: 8px;" alt="Antigravity" title="Antigravity" />
+  <a href="https://antigravity.dev"><img src="https://www.google.com/s2/favicons?domain=antigravity.dev&sz=128" height="45" style="border-radius: 8px;" alt="Antigravity" title="Antigravity" /></a>
   &nbsp;&nbsp;
-  <img src="https://www.google.com/s2/favicons?domain=deepmind.google&sz=128" height="45" style="border-radius: 8px;" alt="Veo" title="Veo" />
+  <a href="https://deepmind.google/technologies/veo"><img src="https://www.google.com/s2/favicons?domain=deepmind.google&sz=128" height="45" style="border-radius: 8px;" alt="Veo" title="Veo" /></a>
 </div>
 
 <br>
 
 ---
 
-## 📝 Resume Making
+## 📝 My Resume
 
 <div align="center">
   <p>Here is my current resume detailing my experience, skills, and education:</p>
