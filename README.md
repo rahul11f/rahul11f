@@ -115,6 +115,30 @@
       <img src="https://skillicons.dev/icons?i=html,css,js" height="30" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/rahul11f/My-Routine-Tracker">📅 My Routine Tracker</a></h3>
+      <p>A beautifully designed, personal daily progress tracker.</p>
+      <img src="https://skillicons.dev/icons?i=react,vite,css" height="30" />
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://rahul11f.github.io/Git-Profile-Dashboard/">🧊 Git 3D Dashboard</a></h3>
+      <p>An immersive 3D interactive GitHub profile visualization.</p>
+      <img src="https://skillicons.dev/icons?i=react,threejs,tailwind" height="30" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/rahul11f/local-eats">🍔 Local Eats</a></h3>
+      <p>A modern, responsive food delivery platform frontend.</p>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,js" height="30" />
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/rahul11f/RxAI">🤖 RxAI</a></h3>
+      <p>An AI-powered intelligent application interface.</p>
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts" height="30" />
+    </td>
+  </tr>
 </table>
 
 <br>
