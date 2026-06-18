@@ -28,7 +28,7 @@
       <h2>👨‍💻 System Log: About Me</h2>
       <p>I'm <b>Rahul Kumar</b>, a passionate and dedicated technology professional currently pursuing my B.Tech in Computer Science Engineering at Babu Banarasi Das University. With a strong focus on continuous learning, I specialize in full-stack MERN development and enjoy building highly interactive, modern web applications.</p>
       <ul>
-        <li>💼 Currently working as a <b>Full Stack MERN Intern</b> at GRASTech.</li>
+      
         <li>🎓 B.Tech CSE Graduate (2022 - 2026)</li>
         <li>💬 Ask me about <b>React, Node.js, Next.js, and Three.js</b></li>
         <li>📫 Reach me at: raajrahul147@gmail.com</li>
