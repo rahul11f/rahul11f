@@ -36,7 +36,9 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="assets/coding.gif" width="300" style="border-radius: 10px;" alt="3D Coding Animation" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rahul11f&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" style="margin-bottom: 10px;" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul11f&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
@@ -155,14 +157,7 @@
   </picture>
 </div>
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul11f&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul11f&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=100&section=footer" />
