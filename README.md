@@ -71,27 +71,7 @@
 
 <br>
 
----
 
-## 🤖 AI Tools I Use
-
-<div align="center">
-  <a href="https://chatgpt.com"><img src="https://cdn.simpleicons.org/openai/74aa9c" height="45" alt="ChatGPT" title="ChatGPT" /></a>
-  &nbsp;&nbsp;
-  <a href="https://claude.ai"><img src="https://cdn.simpleicons.org/anthropic/F2B08D" height="45" alt="Claude" title="Claude" /></a>
-  &nbsp;&nbsp;
-  <a href="https://gemini.google.com"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" title="Gemini" /></a>
-  &nbsp;&nbsp;
-  <a href="https://deepseek.com"><img src="assets/icons/deepseek.png" height="45" style="border-radius: 8px;" alt="DeepSeek" title="DeepSeek" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.stitchdata.com/"><img src="assets/icons/stitch.png" height="45" style="border-radius: 8px;" alt="Stitch" title="Stitch" /></a>
-  &nbsp;&nbsp;
-  <a href="https://antigravity.dev"><img src="assets/icons/antigravity.png" height="45" style="border-radius: 8px;" alt="Antigravity" title="Antigravity" /></a>
-  &nbsp;&nbsp;
-  <a href="https://deepmind.google/technologies/veo"><img src="assets/icons/veo.png" height="45" style="border-radius: 8px;" alt="Veo" title="Veo" /></a>
-</div>
-
-<br>
 
 ---
 
