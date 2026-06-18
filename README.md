@@ -27,8 +27,9 @@
   <tr>
     <td width="60%">
       <h2>👨‍💻 System Log: About Me</h2>
-      <p>I'm <b>Rahul Kumar</b>, a relentless builder and full-stack MERN developer with a passion for transforming complex problems into elegant, highly interactive digital experiences.</p>
-      <p>Currently pursuing my B.Tech in CSE at Babu Banarasi Das University, I thrive on continuous learning and pushing the boundaries of modern web technologies like Next.js and Three.js.</p>
+      <p>I'm <b>Rahul Kumar</b>, a passionate Full-Stack MERN Developer currently pursuing my B.Tech in CSE at Babu Banarasi Das University.</p>
+      <p>I love to build websites by analyzing real-world problems around me. By combining my technical knowledge, creative design, and AI-driven workflows, I engineer highly interactive, production-grade web applications.</p>
+      <p>I thrive on continuous learning, constantly pushing the boundaries of modern web technologies like Next.js and Three.js to create elegant digital experiences.</p>
       <ul>
         <li>🎓 B.Tech CSE (2022 - 2026)</li>
         <li>🧠 Deep diving into <b>AI integration, DSA, and Web3</b></li>
