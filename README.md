@@ -17,7 +17,7 @@
   &nbsp;&nbsp;
   <a href="https://certificate-website-seven.vercel.app/"><img src="https://cdn.simpleicons.org/awesomelists/FFD700" height="40" alt="Certificates" /></a>
   &nbsp;&nbsp;
-  <a href="INSERT_YOUR_RESUME_LINK_HERE"><img src="https://cdn.simpleicons.org/adobeacrobatreader/ff0000" height="40" alt="Resume" /></a>
+  <a href="https://www.overleaf.com/project/687d0d8b7b19319272e00e1f"><img src="https://cdn.simpleicons.org/adobeacrobatreader/ff0000" height="40" alt="Resume" /></a>
 
 </div>
 
@@ -29,11 +29,12 @@
   <tr>
     <td width="60%">
       <h2>👨‍💻 System Log: About Me</h2>
-      <p>I'm <b>Rahul Kumar</b>, a passionate and dedicated technology professional currently pursuing my B.Tech in Computer Science Engineering at Babu Banarasi Das University. With a strong focus on continuous learning, I specialize in full-stack MERN development and enjoy building highly interactive, modern web applications.</p>
+      <p>I'm <b>Rahul Kumar</b>, a relentless builder and full-stack MERN developer with a passion for transforming complex problems into elegant, highly interactive digital experiences.</p>
+      <p>Currently pursuing my B.Tech in CSE at Babu Banarasi Das University, I thrive on continuous learning and pushing the boundaries of modern web technologies like Next.js and Three.js.</p>
       <ul>
-      
-        <li>🎓 B.Tech CSE Graduate (2022 - 2026)</li>
-        <li>💬 Ask me about <b>React, Node.js, Next.js, and Three.js</b></li>
+        <li>💼 Working as a <b>Full Stack MERN Intern</b> at GRASTech</li>
+        <li>🎓 B.Tech CSE (2022 - 2026)</li>
+        <li>🧠 Deep diving into <b>AI integration, DSA, and Web3</b></li>
         <li>📫 Reach me at: raajrahul147@gmail.com</li>
       </ul>
     </td>
@@ -62,10 +63,13 @@
 ## 💻 Coding Profiles
 
 <div align="center">
-  <a href="YOUR_LEETCODE_URL_HERE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="YOUR_HACKERRANK_URL_HERE"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="YOUR_CODEFORCES_URL_HERE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://github.com/rahul11f"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/rahul11f/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode" title="LeetCode" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/rahul11f"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" alt="HackerRank" title="HackerRank" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/rahul11f"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45" alt="Codeforces" title="Codeforces" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rahul11f"><img src="https://cdn.simpleicons.org/github/ffffff" height="45" alt="GitHub" title="GitHub" /></a>
 </div>
 
 <br>
@@ -75,13 +79,19 @@
 ## 🤖 AI Tools I Use
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-F2B08D?style=for-the-badge&logo=anthropic&logoColor=black" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D4D4D?style=for-the-badge" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Stitch-FF0000?style=for-the-badge" alt="Stitch" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Veo-4285F4?style=for-the-badge" alt="Veo" />
+  <img src="https://cdn.simpleicons.org/openai/74aa9c" height="45" alt="ChatGPT" title="ChatGPT" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/F2B08D" height="45" alt="Claude" title="Claude" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" title="Gemini" />
+  &nbsp;&nbsp;
+  <img src="https://ui-avatars.com/api/?name=Deep+Seek&background=4D4D4D&color=fff&rounded=true&font-size=0.4&bold=true" height="45" alt="DeepSeek" title="DeepSeek" />
+  &nbsp;&nbsp;
+  <img src="https://ui-avatars.com/api/?name=Stitch&background=FF0000&color=fff&rounded=true&font-size=0.4&bold=true" height="45" alt="Stitch" title="Stitch" />
+  &nbsp;&nbsp;
+  <img src="https://ui-avatars.com/api/?name=Anti+Gravity&background=000000&color=fff&rounded=true&font-size=0.4&bold=true" height="45" alt="Antigravity" title="Antigravity" />
+  &nbsp;&nbsp;
+  <img src="https://ui-avatars.com/api/?name=Veo&background=4285F4&color=fff&rounded=true&font-size=0.4&bold=true" height="45" alt="Veo" title="Veo" />
 </div>
 
 <br>
