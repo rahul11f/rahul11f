@@ -11,10 +11,13 @@
   <br>
 
   <!-- Social & Portfolio Links -->
-  <a href="https://rahul11f.github.io/Git-Profile-Dashboard/"><img src="https://img.shields.io/badge/Live_3D_Portfolio-000000?style=for-the-badge&logo=react&logoColor=00f0ff&borderColor=00f0ff" alt="Interactive Dashboard"></a>
-  <a href="https://www.linkedin.com/in/rahul11f"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://certificate-website-seven.vercel.app/"><img src="https://img.shields.io/badge/Certificates-1E1E1E?style=for-the-badge&logo=awesomelists&logoColor=FFD700" alt="Certificates"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume_PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=red" alt="Resume"></a>
+  <a href="https://react-portfolio-sable-five.vercel.app"><img src="https://cdn.simpleicons.org/react/00f0ff" height="40" alt="Live 3D Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rahul11f"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://certificate-website-seven.vercel.app/"><img src="https://cdn.simpleicons.org/awesomelists/FFD700" height="40" alt="Certificates" /></a>
+  &nbsp;&nbsp;
+  <a href="INSERT_YOUR_RESUME_LINK_HERE"><img src="https://cdn.simpleicons.org/adobeacrobatreader/ff0000" height="40" alt="Resume" /></a>
 
 </div>
 
@@ -50,6 +53,35 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,supabase,firebase,git,github,docker,linux,aws&perline=10" />
   </a>
+</div>
+
+<br>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+  <a href="YOUR_LEETCODE_URL_HERE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="YOUR_HACKERRANK_URL_HERE"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="YOUR_CODEFORCES_URL_HERE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://github.com/rahul11f"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+
+<br>
+
+---
+
+## 🤖 AI Tools I Use
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-F2B08D?style=for-the-badge&logo=anthropic&logoColor=black" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D4D4D?style=for-the-badge" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/Stitch-FF0000?style=for-the-badge" alt="Stitch" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Veo-4285F4?style=for-the-badge" alt="Veo" />
 </div>
 
 <br>
