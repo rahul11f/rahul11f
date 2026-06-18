@@ -11,13 +11,11 @@
   <br>
 
   <!-- Social & Portfolio Links -->
-  <a href="https://react-portfolio-sable-five.vercel.app"><img src="https://cdn.simpleicons.org/react/00f0ff" height="40" alt="Live 3D Portfolio" /></a>
+  <a href="https://rahul11f-react-portfolio.vercel.app/"><img src="https://cdn.simpleicons.org/react/00f0ff" height="40" alt="Live 3D Portfolio" /></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahul11f"><img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="https://certificate-website-seven.vercel.app/"><img src="https://cdn.simpleicons.org/awesomelists/FFD700" height="40" alt="Certificates" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.overleaf.com/project/687d0d8b7b19319272e00e1f"><img src="https://cdn.simpleicons.org/adobeacrobatreader/ff0000" height="40" alt="Resume" /></a>
 
 </div>
 
@@ -85,13 +83,26 @@
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="45" alt="Gemini" title="Gemini" />
   &nbsp;&nbsp;
-  <img src="https://ui-avatars.com/api/?name=Deep+Seek&background=4D4D4D&color=fff&rounded=true&font-size=0.4&bold=true" height="45" alt="DeepSeek" title="DeepSeek" />
+  <img src="https://www.google.com/s2/favicons?domain=deepseek.com&sz=128" height="45" style="border-radius: 8px;" alt="DeepSeek" title="DeepSeek" />
   &nbsp;&nbsp;
-  <img src="https://ui-avatars.com/api/?name=Stitch&background=FF0000&color=fff&rounded=true&font-size=0.4&bold=true" height="45" alt="Stitch" title="Stitch" />
+  <img src="https://www.google.com/s2/favicons?domain=stitchdata.com&sz=128" height="45" style="border-radius: 8px;" alt="Stitch" title="Stitch" />
   &nbsp;&nbsp;
-  <img src="https://ui-avatars.com/api/?name=Anti+Gravity&background=000000&color=fff&rounded=true&font-size=0.4&bold=true" height="45" alt="Antigravity" title="Antigravity" />
+  <img src="https://www.google.com/s2/favicons?domain=antigravity.dev&sz=128" height="45" style="border-radius: 8px;" alt="Antigravity" title="Antigravity" />
   &nbsp;&nbsp;
-  <img src="https://ui-avatars.com/api/?name=Veo&background=4285F4&color=fff&rounded=true&font-size=0.4&bold=true" height="45" alt="Veo" title="Veo" />
+  <img src="https://www.google.com/s2/favicons?domain=deepmind.google&sz=128" height="45" style="border-radius: 8px;" alt="Veo" title="Veo" />
+</div>
+
+<br>
+
+---
+
+## 📝 Resume Making
+
+<div align="center">
+  <p>Here is my current resume detailing my experience, skills, and education:</p>
+  <a href="https://drive.google.com/file/d/12BJG0nMGkDaYVm5-06_CJQA3zuM3DVxf/view?usp=drive_link">
+    <img src="https://cdn.simpleicons.org/googledrive/0F9D58" height="40" alt="Resume (Google Drive)" title="Resume (Google Drive)" />
+  </a>
 </div>
 
 <br>
