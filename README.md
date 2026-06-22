@@ -82,7 +82,7 @@
 
 <div align="center">
   <p>Here is my current resume detailing my experience, skills, and education:</p>
-  <a href="https://drive.google.com/file/d/12BJG0nMGkDaYVm5-06_CJQA3zuM3DVxf/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1jn49njMQGKKQDm3Wxd6GlrmpAMZTGLy5/view?usp=sharing">
     <img src="https://cdn.simpleicons.org/googledrive/0F9D58" height="40" alt="Resume (Google Drive)" title="Resume (Google Drive)" />
   </a>
 </div>
